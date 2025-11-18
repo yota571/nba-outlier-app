@@ -1,0 +1,4 @@
+streamlit
+pandas
+nba_api
+api-dfs-wrapper
