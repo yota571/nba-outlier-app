@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+nba_api
+api-dfs-wrapper
+requests
+scikit-learn
+joblib
+altair
+plotly
+python-dateutil
+xgboost
